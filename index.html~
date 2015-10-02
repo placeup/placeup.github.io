@@ -230,8 +230,7 @@
          </div>
           <div class="form-group">
             <div class="col-md-10">
-              <button type="submit" id="btnSend" class="btn btn-lg">Send Message</button>
-           </div>
+              <a href="https://mail.google.com/mail/?view=cm&fs=1&to=placeup.web@gmail.com&su=subject_here&body=body_here" class="btn btn-lg" id="btnSend">Send Message</a>
          </div>
           </div>
          </form> <!-- end form -->
@@ -248,12 +247,12 @@
            <div class="row">
              <div class="col-sm-12">
                 <ul class="social">
-                <a href="#">
+                <a href="https://www.facebook.com/placeup2015">
                   <li class="circle-wrap">
                    <i class="fa fa-facebook"></i>
                   </li>
                 </a>
-                <a href="https://www.facebook.com/placeup2015">
+                <a href="">
                   <li class="circle-wrap">
                    <i class="fa fa-twitter"></i>
                   </li>
