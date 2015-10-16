@@ -705,6 +705,6 @@ $(document).ready(function(){
     var timeinterval = setInterval(updateClock,1000);
   }
 
-  var deadline = 'October 16 2015 12:00:00 UTC+0200';
+  var deadline = 'October 31 2015 12:00:00 UTC+0200';
   initializeClock(deadline);
 });
